@@ -1,6 +1,6 @@
 # Superstore-Data-Analysis
 ## Overview
-This is my first solo data project which looks into the sales of a superstore in the USA. Behind the scenes, I set up an environment for data analysis so that I could use SQL. The analysis is fairly basic, just to get me used to SQL and use my experience of Python. The dataset is from Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+This is my first solo data project which looks into the sales of a superstore in the USA. Behind the scenes, I set up an environment for data analysis so that I could use SQL. The analysis is fairly basic, just to get me used to SQL and use my experience with Python. The dataset is from Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 
 ## Objectives
