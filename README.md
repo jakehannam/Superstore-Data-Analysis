@@ -13,13 +13,14 @@ The following quetions are answered in this analysis:
     <li>How are the sales distributed?</li>
 </ol>
 
-## 🧹 Data Cleaning
-Summary of how you cleaned and prepared the data.
-
-## 🧠 SQL Analysis
-- Key queries
-- KPIs calculated
-- Insights from SQL
+## SQL Analysis
+Questions 1-4 were all answered from SQL queries. The following insights were found:
+<ol>
+    <li>The category with the HIGHEST sales was TECHNOLOGY.</li>
+    <li>WYOMING was the state with the FEWEST customers.</li>
+    <li>MARCH and JANUARY were the BEST performing months.</li>
+    <li>The MOST VALUABLE customer was SEAN MILLER (by sales).</li>
+</ol>
 
 ## 📊 Visualisations
 Include charts from Python/Excel.
