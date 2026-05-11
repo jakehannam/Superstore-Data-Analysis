@@ -50,4 +50,4 @@ This project some basic skills, however there are a few limitations with the sel
 </ul>
 
 ## Next Steps
-If I did this again, I could possibly fit a curve to the sales distribution and find a probability density function. Also, it would be interesting to forecast future sales, possibly using the distribution and Monte Carlo simulation.
+If I ever continue this small project or if I did this again, I could possibly fit a curve to the sales distribution and find a probability density function. Also, it would be interesting to forecast future sales, possibly using the distribution and Monte Carlo simulation.
