@@ -14,7 +14,7 @@ The following quetions are answered in this analysis:
 </ol>
 
 ## SQL Analysis
-Questions 1-4 were all answered from SQL queries. The following insights were found:
+Questions 1-4 were all answered from SQL queries, which can all be found in the notebook. The following insights were found:
 <ol>
     <li>The category with the HIGHEST sales was TECHNOLOGY.</li>
     <li>WYOMING was the state with the FEWEST customers.</li>
@@ -39,14 +39,15 @@ Questions 1 and 5 were answered in Python with visualisations. These were the ke
     Figure 2: Distribution of sales
 </p>
 
-## 🤖 AI Involvement
-How AI tools supported your workflow.
+## AI Involvement
+AI was used to guide me through the processes of setting up an appropriate environment for data analysis, as well as getting started with GitHub. It was also used to help with becoming more familiar with SQL and the Pandas module for Python.
 
-## 💡 Key Insights
-- Bullet points with findings
+## Limitations
+This project some basic skills, however there are a few limitations with the selected dataset:
+<ul>
+    <li>The data was unrealistically clean from the start, so I haven't been able to demonstrate data-cleaning skills.</li>
+    <li>The only fully numerical column in the data was Sales, so I haven't been able to show complex mathematical skills and find insightful correlations.</li>
+</ul>
 
-## 🔒 Limitations
-Show maturity and critical thinking.
-
-## 🚀 Next Steps
-What you’d improve with more time.
+## Next Steps
+If I did this again, I could possibly fit a curve to the sales distribution and find a probability density function. Also, it would be interesting to forecast future sales, possibly using the distribution and Monte Carlo simulation.
