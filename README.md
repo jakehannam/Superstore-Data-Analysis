@@ -40,7 +40,7 @@ Questions 1 and 5 were answered in Python with visualisations. These were the ke
 </p>
 
 ## AI Involvement
-AI was used to guide me through the processes of setting up an appropriate environment for data analysis, as well as getting started with GitHub. It was also used to help with becoming more familiar with SQL and the Pandas module for Python.
+AI was used to guide me through the processes of setting up an appropriate environment for data analysis, as well as getting started with GitHub. It was also used to help with becoming more familiar with SQL and the Pandas module for Python. The model I used was Microsoft's Copilot.
 
 ## Limitations
 This project some basic skills, however there are a few limitations with the selected dataset:
