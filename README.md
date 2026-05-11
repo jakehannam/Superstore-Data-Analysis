@@ -22,8 +22,17 @@ Questions 1-4 were all answered from SQL queries. The following insights were fo
     <li>The MOST VALUABLE customer was SEAN MILLER (by sales).</li>
 </ol>
 
-## 📊 Visualisations
-Include charts from Python/Excel.
+## Python + Visualisations
+Questions 1 and 5 were answered in Python with visualisations. These were the key insights:
+<ul>
+    <li>The range in sales was very LARGE (approximately $22.6K) and the inter-quartile range was only $193.36!</li>
+    <li>The mean sales was $230.77 and the median was far LESS at just $54.49 which is an indication of SKEW. The standard deviation was $628.65.</li>
+    <li>The distribution of sales was in fact POSITIVELY SKEWED, peaking within the interval $17—44 (see Figure 1).</li>
+</ul>
+<p align="center">
+    <img src="dashboard/figures/sales_by_category.png" width="500">
+    Firgure 1: Distribution of sales
+</p>
 
 ## 🤖 AI Involvement
 How AI tools supported your workflow.
