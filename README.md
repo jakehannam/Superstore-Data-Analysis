@@ -23,7 +23,7 @@ Questions 1-4 were all answered from SQL queries, which can all be found in the 
 </ol>
 
 ## Python + Visualisations
-Questions 1 and 5 were answered in Python with visualisations. These were the key insights:
+Questions 1 and 5 were answered in Python with visualisations, the code for which can be found in the notebook. These were the key insights:
 <ul>
     <li>The categories from WORST to BEST, by sales, were TECHNOLOGY, FURNITURE and then OFFICE SUPPLIES (see Figure 1).</li>
     <li>The range in sales was very LARGE (approximately $22.6K) and the inter-quartile range was only $193.36!</li>
