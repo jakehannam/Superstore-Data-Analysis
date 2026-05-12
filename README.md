@@ -19,7 +19,7 @@ Questions 1-4 were all answered from SQL queries, which can all be found in the 
     <li>The category with the HIGHEST sales was TECHNOLOGY.</li>
     <li>WYOMING was the state with the FEWEST customers.</li>
     <li>MARCH and JANUARY were the BEST performing months.</li>
-    <li>The MOST VALUABLE customer was SEAN MILLER (by sales).</li>
+    <li>The MOST VALUABLE customer was an S. MILLER (by sales).</li>
 </ol>
 
 ## Python + Visualisations
