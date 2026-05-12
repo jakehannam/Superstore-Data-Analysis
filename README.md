@@ -47,6 +47,8 @@ This project some basic skills, however there are a few limitations with the sel
 <ul>
     <li>The data was unrealistically clean from the start, so I haven't been able to demonstrate data-cleaning skills.</li>
     <li>The only fully numerical column in the data was Sales, so I haven't been able to show complex mathematical skills and find insightful correlations.</li>
+    <li>The dataset was made up of just one table, meaning I haven't been able to demonstrate more complex analysis such as relations and joining tables.</li>
+    <li>The data is very simple and does not contain things such as customer demographics and supplier information.</li>
 </ul>
 
 ## Next Steps
