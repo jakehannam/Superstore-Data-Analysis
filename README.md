@@ -23,7 +23,7 @@ A summary of the tools/software used in this project is given below:
 </ul>
 
 ## SQL Analysis
-Questions 1-4 were all answered from SQL queries, which can all be found in the notebook. The following insights were found:
+Questions 1-4 were all answered from SQL queries, which can all be found in the SQL file as well as in the notebook. The following insights were found:
 <ol>
     <li>The category with the HIGHEST sales was TECHNOLOGY.</li>
     <li>WYOMING was the state with the FEWEST customers.</li>
