@@ -1,32 +1,32 @@
 -- which category has the highest sales?
-select
-	SUM("Sales") as sales,
+SELECT
+	SUM("Sales") AS sales,
 	"Category" 
-from superstore
-group by "Category"
-order by sales desc;
+FROM superstore
+GROUP BY "Category"
+ORDER BY sales DESC;
 
 -- which state has the least customers?
-select
-	COUNT(distinct "Customer ID") as total_state,
+SELECT
+	COUNT(DISTINCT "Customer ID") AS total_state,
 	"State"
-from superstore
-group by "State" 
-order by total_state asc;
+FROM superstore
+GROUP BY "State" 
+ORDER BY total_state ASC;
 
 -- which months perform best?
-select
-	avg("Sales") as avg_sales,
-	SUBSTRING("Order Date" from 4 for 2) as month
-from superstore
-group by month
-order by avg_sales desc;
+SELECT
+	AVG("Sales") AS avg_sales,
+	SUBSTRING("Order Date" FROM 4 FOR 2) AS month
+FROM superstore
+GROUP BY month
+ORDER BY avg_sales DESC;
 
 -- which customers have spent the most?
-select
+SELECT
 	"Customer ID",
 	"Customer Name",
-	sum("Sales") as total_sales
-from superstore
-group by "Customer ID", "Customer Name"
-order by total_sales desc;
+	SUM("Sales") AS total_sales
+FROM superstore
+GROUP BY "Customer ID", "Customer Name"
+ORDER BY total_sales DESC;
