@@ -40,11 +40,11 @@ Questions 1 and 5 were answered in Python with visualisations, the code for whic
     <li>The distribution of sales was in fact POSITIVELY SKEWED, peaking within the interval $17—44 (see Figure 2).</li>
 </ul>
 <p align="center">
-    <img src="figures/sales_by_category.png" width="500"><br>
+    <img src="dashboard/charts/sales_by_category.png" width="500"><br>
     Figure 1: Sales by category
 </p>
 <p align="center">
-    <img src="figures/sales_distribution.png" width="500"><br>
+    <img src="dashboard/charts/sales_distribution.png" width="500"><br>
     Figure 2: Distribution of sales
 </p>
 
