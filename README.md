@@ -13,6 +13,15 @@ The following quetions are answered in this analysis:
     <li>How are the sales distributed?</li>
 </ol>
 
+## Tech Stack
+A summary of the tools/software used in this project is given below:
+<ul>
+    <li>SQL (DBeaver, PostgreSQL)</li>
+    <li>Python, Jupyter Notebook, Pandas, NumPy (Visual Studio Code)</li>
+    <li>GitHub</li>
+    <li>Microsoft Copilot</li>
+</ul>
+
 ## SQL Analysis
 Questions 1-4 were all answered from SQL queries, which can all be found in the notebook. The following insights were found:
 <ol>
