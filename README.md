@@ -34,7 +34,7 @@ Questions 1-4 were all answered from SQL queries, which can all be found in the 
 ## Python + Visualisations
 Questions 1 and 5 were answered in Python with visualisations, the code for which can be found in the notebook. These were the key insights:
 <ul>
-    <li>The categories from WORST to BEST, by sales, were TECHNOLOGY, FURNITURE and then OFFICE SUPPLIES (see Figure 1).</li>
+    <li>The categories from BEST to WORST, by sales, were TECHNOLOGY, FURNITURE and then OFFICE SUPPLIES (see Figure 1).</li>
     <li>The range in sales was very LARGE (approximately $22.6K) and the inter-quartile range was only $193.36!</li>
     <li>The mean sales was $230.77 and the median was far LESS at just $54.49 which is an indication of SKEW. The standard deviation was $628.65.</li>
     <li>The distribution of sales was in fact POSITIVELY SKEWED, peaking within the interval $17—44 (see Figure 2).</li>
